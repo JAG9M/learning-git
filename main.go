@@ -1,1 +1,2 @@
-fun()
+package main
+func main ()
